@@ -5,6 +5,8 @@
 -  [Project Overview](#project-overview)
 -  [Data Source](#data-source)
 -  [Data Cleaning](#data-cleaning)
+-  [Exploratory Data analysis](#exploratory-data-analysis)
+
 
 ### Project Overview
 
