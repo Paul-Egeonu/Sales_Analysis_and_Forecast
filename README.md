@@ -13,14 +13,13 @@
 This Data Analysis Project covers the performance of an E-commerce business in Nigeria in the 2nd & 3rd quarters of the year 2021. By analysing various aspects of the sales data, we seek to identify trends, gain a deeper understanding of the company's performance, make data-driven recommendations towards increasing revenue & overall performance and make forecasts for the final quarter of the year.
 
 ### Data Source
-The Dataset used for this analysis is the "service provider New Version.xlsx" file
-[Service Provider New Version.xlsx](https://github.com/user-attachments/files/17957318/Service.Provider.New.Version.xlsx)
+The Dataset used for this analysis is the "**Blutech Sales Records Apr-Sep_2021.xlsx**" file    
+[Download spreadsheet here](https://github.com/user-attachments/files/18268722/Blutech.Sales.Records.Apr-Sep_2021.xlsx)
+
 
 ### Tools
-- Excel - Data Cleaning & Analysis
-  - [Download here](https://microsoft.com)
-- MySQL - Data Analysis
-- Power BI - Data Visualization
+The tool used for this analysis is Microsoft Excel
+  - [Download MS Excel](https://microsoft.com)
 
 ### Data Cleaning
 In the preparation of the dataset for analysis, we performed the following tasks:
