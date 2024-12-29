@@ -15,6 +15,7 @@
 -  [Sales Forecast](#sales-forecast)
 -  [Limitations](#limitations)
 -  [Conclusion](#conclusion)
+-  [Forecast vs Outcome **(UPDATE)**](#forecast-vs-outcome)
 
 
 ----------------
@@ -142,6 +143,18 @@ The dataset covers only the 2nd & 3rd quarters of a single calendar year, thereb
 -------------
 ### Conclusion
 The E-commerce business showed strong performance in certain payment categories like **Betting** & **Cable TV**, driven by seasonal events and consumer demand. However, most of the payment types exhibited room for growth. By strategically improving customer engagement, offering promotions, and expanding customer options with the inclusion of more popular or preferred service providers, the business can sustain growth and perform better in the coming months, particularly during the festive period.
+
+-----------
+## UPDATE (End of year 2021)
+
+
+![forecast blutech](https://github.com/user-attachments/assets/72534381-5091-4891-b9f6-73e3e56e09f2)
+
+### Forecast vs Outcome
+
+Comparing the sales forecast to the final outcome, the forecast exhibited a high degree of accuracy.
+The forecast for the months of October and November witnessed an accurancy of 95% & 92% respectively, while an 87% accuracy was exhibited by the December forecast.
+However, in general terms, the forecast is deemed to be accurate as the business experiences a slight revenue increase in October and achieves peak sales for the year 2021 in December, just as was forecasted.
 
 
 
