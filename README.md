@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis with Microsoft Excel
+# E-commerce Sales Analysis & Forecast
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@
 
 ### Project Overview
 
-This Data Analysis Project aims to provide insights into the sales performance of a Fintech in Lagos in the 2nd & 3rd quarters of the year 2021. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations and gain a deeper understanding of the company's performance.
+This Data Analysis Project covers the performance of an E-commerce business in Nigeria in the 2nd & 3rd quarters of the year 2021. By analysing various aspects of the sales data, we seek to identify trends, gain a deeper understanding of the company's performance, make data-driven recommendations towards increasing revenue & overall performance and make forecasts for the final quarter of the year.
 
 ### Data Source
 The Dataset used for this analysis is the "service provider New Version.xlsx" file
