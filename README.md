@@ -20,7 +20,7 @@ The Dataset used for this analysis is the "**Blutech Sales Records Apr-Sep_2021.
 
 ----------------
 ### Tools
-The tool used for this analysis is Microsoft Excel
+The tool used for this analysis was Microsoft Excel
   - [Download MS Excel](https://microsoft.com)
 
 ----------------
@@ -71,5 +71,53 @@ Count | **3,128**
 ![Blutech Dashboard](https://github.com/user-attachments/assets/e356b1d2-7bb4-4af4-a0ed-bee98335e955)
 
 ---------------
+
+### Insights
+
+1. **TOTAL REVENUE**: In general, revenue and order volume saw a generally positive trend, with fluctuations in specific months.
+
+2. **MONTHLY SALES TREND**: May and September experienced the highest sales while the lowest sales were made in July.
+The fluctuations in monthly sales performance were possibly due to seasonal factors. Betting which accounted for 39% of sales in May & Airline (31%) in September were the major contributors to revenue in the peak performing months. A key reason for peak sales in May brought about by Betting was the round-up of major European football leagues, while Airline sales experienced a rise in September largely due to the relaxation of the COVID-19 Pandemic travel rules in Nigeria.
+On the other hand, the sales dip in July could possibly be due to the post-holiday slowdown, which is typical in many businesses during mid-year periods.
+
+3. **PAYMENT TYPE PERFORMANCE**: Betting (23% of total sales) & Cable TV (22%) were the top performing payment types while Airline (17%) generated the lowest sales largely due to the pandemic travel restrictions and the lack of options for customers, as ARIK Air which is the only airline ticket purchase service provided by the business is not recognised as the first choice carrier for most Nigerians.
+Utility Bills (19%) and Internet Providers (18%) showed steady sales but lower growth compared to Betting and Cable TV, with Internet Providers having a slightly weaker performance in the later months (especially June and July).
+
+4. **SERVICE PROVIDER PERFORMANCE**: MERRYBET (Betting) with 23% of total sales dominated the revenue with a strong share of sales, reflecting a consistent demand for betting services.
+DSTV (Cable TV) with 22% of total sales was the second-best performing service provider, reflecting Nigeria's continued demand for cable TV services, especially during sporting seasons.
+ARIK (Airline) with 17% of total sales performed relatively well, possibly benefiting from increased travel demand post-pandemic.
+Utility providers (IKEDC, EKEDC, EEDC, IBEDC, BEDC) performed poorly, with BEDC showing particularly low sales. This could be largely due to the low population density and a lack of awareness in some rural areas covered by the distribution company on modern payment methods of electricity bills, as well as limited customer engagement by the business.
+
+----------
+
+### Recommendations
+1. **Focus on High-Performing Categories**: Prioritize marketing and customer engagement efforts in the Betting and Cable TV sectors. Consider special promotions or collaborations during high-demand periods, such as sporting events and holidays.
+
+2. **Increase Engagement with Underperforming Service Providers**:  For BEDC and IBEDC, consider improving customer service for a more seamless experience. Engaging with local communities and leveraging social media could boost brand loyalty and sales.
+
+3. **Diversification**: Availing additional service providers in the Betting, Airline & Cable TV categories provides more options for customers and prospective customers and expands opportunities for  growth, especially as the current providers in  the Betting & Airline categories (MERRYBET & ARIK Air) are not the most popular in their industry among Nigerians. More popular options in the Betting industry include SportyBet, Bet9ja, & 1XBet, while the top-choice Airline amongst Nigerians is AIR PEACE.
+
+---------
+
+### Projections
+1. **General Sales Outlook**:
+Q4 2021 (October - December) is likely to experience a rise in demand, particularly for Betting, Cable TV, and Airline, due to the holiday season and end-of-year promotions. Historically, E-commerce businesses in Nigeria experience an uptick in sales during festive seasons, and betting interest tends to rise with popular sporting events.
+
+2. **Potential Challenges**:
+Utility Providers might continue to face challenges unless there are structural improvements or enhanced customer awareness plans.
+Internet Providers might face stiff competition and could experience slower growth without differentiation strategies such as exclusive content, cheaper subscription plans or faster speeds.
+
+3. **Growth in the Airline Industry**:
+ARIK Air and the general Airline industry could see a recovery as travel demand is expected to sky-rocket post-pandemic.
+
+---------
+
+### Sales Forecast
+
+
+
+CONCLUSION
+The E-commerce business showed strong performance in certain payment categories like Betting and Cable TV, driven by seasonal events and consumer demand. However, most of the payment types exhibited room for growth. By strategically improving customer engagement, offering promotions, and expanding customer options with the inclusion of more popular or preferred service providers, the business can sustain growth and perform better in the coming months, particularly during the festive period.
+
 
 
