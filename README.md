@@ -4,8 +4,17 @@
 
 -  [Project Overview](#project-overview)
 -  [Data Source](#data-source)
+-  [Tools](#tools)
 -  [Data Cleaning](#data-cleaning)
 -  [Exploratory Data analysis](#exploratory-data-analysis)
+-  [Data Analysis](#data-analysis)
+-  [Dashboard](#dashboard)
+-  [Insights](#insights)
+-  [Recommendations](#recommendations)
+-  [Projections](#projections)
+-  [Sales Forecast](#sales-forecast)
+-  [Limitations](#limitations)
+-  [Conclusion](#conclusion)
 
 
 ----------------
