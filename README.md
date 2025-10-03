@@ -58,8 +58,8 @@ The dataset was explored to answer key questions such as:
 
 
 ----------------
-### Data Analysis
-In the analysis of the data, Descriptive Statistics was carried out on the transaction amounts. Furthermore, Pivot Tables were adopted in summarising the data.
+### Descriptive Statistics
+Descriptive Statistics was carried out on the transaction amounts. Furthermore, Pivot Tables were adopted in summarising the data.
 
 #### SUMMARY STATISTICS
 **MEASURE** | **VALUE**
@@ -82,6 +82,8 @@ Count | **3,128**
 ### Dashboard
 
 ![Blutech Dashboard](https://github.com/user-attachments/assets/e356b1d2-7bb4-4af4-a0ed-bee98335e955)
+![E-commerceSalesAnalysisProject xls](https://github.com/user-attachments/assets/dad974c2-418c-435c-b219-acc66760edf2)
+
 
 ---------------
 
