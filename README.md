@@ -1,6 +1,9 @@
 
 ![cyber-monday-shopping-sales](https://github.com/user-attachments/assets/bc816e5d-5e2d-4eb0-815b-6d6168e3933a)
 
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet-217346.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # E-commerce Sales Analysis & Forecast
 
 ## Table of Contents
